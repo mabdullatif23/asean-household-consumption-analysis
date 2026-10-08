@@ -1,4 +1,3 @@
-
 # ASEAN Household Consumption Analysis (2010–2024)
 
 ### Macroeconomic Determinants | Panel Data Regression | Stata 17
@@ -89,6 +88,10 @@ The project is based on the author's undergraduate thesis:
 Related research manuscript:
 
 **Macroeconomic Determinants of Household Consumption in 5 ASEAN Economies: Panel Evidence from 2010–2024.**
+
+### Research Portfolio
+
+[View Data Analysis Portfolio (PDF)](Muhammad%20Abdul%20Latif_Data%20Analysis_Portfolio.pdf)
 
 ## 8. Contact
 
